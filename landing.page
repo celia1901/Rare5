@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rare5 Consulting Report: SOA Case Challenge</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f0f8ff; /* Baby blue color */
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #333; /* Dark gray color */
+        }
+        p {
+            line-height: 1.6;
+            color: #333; /* Dark gray color */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Rare5 Consulting Report: SOA Case Challenge</h1>
+        <p>Welcome to our consulting report for the SOA Case Challenge. This page is a basic landing page template that you can customize for your project.</p>
+        <p>This is a report for SuperLife's health initiative to improve the overall health and wellbeing of Lumaria citizens.</p>
+        <p>You can add more content, images, and styles to make it your own. Feel free to explore and experiment with different design elements!</p>
+    </div>
+</body>
+</html>
